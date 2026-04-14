@@ -1,0 +1,13 @@
+starttile 0.0 1.0 1.0 1.0 0.0 0.0 1.0 1.0 tileImages/james_gosling.jpeg true 1 start
+endGoal 0.0 1.0 1.0 1.0 0.0 0.0 1.0 1.0 tileImages/Camera.jpg true 1 goal
+eraser 0.0 1.0 1.0 1.0 0.0  0.0    1.0     1.0        tileImages/Mr_Eraser.png true 1 erase 
+breaker 0.0 1.0 1.0 1.0 0.0  0.0    1.0     1.0        tileImages/cracked_egg.jpg true 1 break 5.0
+velocitymodifiertile 0.0 1.0 1.0 1.0 0.0  0.0    1.0     1.0 tileImages/ChugJugWithMe.png true 1 velocitymodifier 8.0 0.0 3.0
+endGoal 0.0 1.0 1.0 1.0 0.0 0.0 1.0 1.0 tileImages/Camera.jpg true 1 goal
+endGoal 0.0 1.0 1.0 1.0 0.0 0.0 1.0 1.0 tileImages/Camera.jpg true 1 goal
+puller 0.0 1.0 1.0 1.0 0.0 0.0 1.0 1.0 tileImages/rope.jpg true 1 pull 4 20 true
+pusher 0.0 1.0 1.0 1.0 0.0 0.0 1.0 1.0 tileImages/stick_figure_pushing_guy_shopping_cart_800_wht.jpg true 1 push 4 10 true
+killer 0.0 1.0 1.0 1.0 0.0 0.0 1.0 1.0 tileImages/skull.jpg true 1 death
+timer 0.0 1.0 1.0 1.0 0.0 0.0 1.0 1.0 tileImages/stopwatch.jpg true 1 timer 3.0
+activater 0.0 1.0 1.0 1.0 0.0 0.0 1.0 1.0 tileImages/redbutton.jpg true 1 activate puller pusher
+nofeature 0.0 1.0 1.0 1.0 0.0 0.0 1.0 1.0 tileImages/wood.jpg true 0
